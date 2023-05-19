@@ -1,0 +1,19 @@
+div{
+    color: rgb(165, 142, 52);
+    text-decoration: underline;
+    border: 1px solid black;
+    max-width: 700px;
+    min-width: 200px;
+    text-align: center;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.70)url("2.jpg")
+}
+h1 b{
+   color: crimson;
+}
+div p{
+    color: rgb(223, 220, 222);
+}
+div a{
+    color: rgb(20, 19, 19);
+}
